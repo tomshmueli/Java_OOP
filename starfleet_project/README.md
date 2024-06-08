@@ -11,6 +11,8 @@ This Java project involves the creation of a Starfleet Command software system d
 
 ## Project Structure
 
+![My Image](answers.pdf)
+
 ### Classes & Interfaces
 The project is structured around several classes representing different types of spacecraft and crew members within the Starfleet. Interfaces like `Spaceship` and `CrewMember` are implemented to standardize functionality and enable polymorphic use of different objects.
 
